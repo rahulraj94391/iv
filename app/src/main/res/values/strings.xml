@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iv</string>
+    <string name="note_hint">Write a note</string>
+    <string name="add">Add</string>
+    <string name="clear_all">Clear all</string>
+    <string name="empty">No notes yet. Long-press a note to delete it.</string>
+</resources>
